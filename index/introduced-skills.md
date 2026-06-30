@@ -9,6 +9,7 @@
 | 2026-06-27 | Model Capability Boundary Mapper | AI Engineering | モデル能力の境界条件を測定 |
 | 2026-06-27 | Evaluation Dataset Curator | AI Engineering | 評価データセットの継続改善 |
 | 2026-06-27 | Tool Failure Cartographer | AI Engineering | エージェント用ツール失敗の地図化 |
+| 2026-06-30 | External Action Approval Auditor | AI Engineering | 外部アカウント操作の承認・停止条件監査 |
 | 2026-06-27 | Data Contract Guardian | AI Engineering | データ契約の互換性検証 |
 | 2026-06-27 | Feature Flag Rollout Planner | AI Engineering | 段階的リリース計画 |
 | 2026-06-27 | Decision Trace Auditor | AI Engineering | エージェント判断過程の監査 |

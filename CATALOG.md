@@ -13,6 +13,7 @@
 | Model Capability Boundary Mapper | モデルやエージェントの能力限界を測定する | [skills/ai-engineering/model-capability-boundary-mapper.md](skills/ai-engineering/model-capability-boundary-mapper.md) |
 | Evaluation Dataset Curator | 評価データセットを継続的に改善する | [skills/ai-engineering/evaluation-dataset-curator.md](skills/ai-engineering/evaluation-dataset-curator.md) |
 | Tool Failure Cartographer | エージェント用ツールの失敗パターンと回復策を地図化する | [skills/ai-engineering/tool-failure-cartographer.md](skills/ai-engineering/tool-failure-cartographer.md) |
+| External Action Approval Auditor | 外部アカウント操作のプレビュー、承認、停止条件を検証する | [skills/ai-engineering/external-action-approval-auditor.md](skills/ai-engineering/external-action-approval-auditor.md) |
 | Data Contract Guardian | データ仕様変更の互換性を検証する | [skills/ai-engineering/data-contract-guardian.md](skills/ai-engineering/data-contract-guardian.md) |
 | Feature Flag Rollout Planner | AI機能や新機能を段階的に公開する計画を作る | [skills/ai-engineering/feature-flag-rollout-planner.md](skills/ai-engineering/feature-flag-rollout-planner.md) |
 | Decision Trace Auditor | AIエージェントの判断過程を監査可能にする | [skills/ai-engineering/decision-trace-auditor.md](skills/ai-engineering/decision-trace-auditor.md) |
